@@ -1,7 +1,7 @@
 name: coachschu
 favicon: null
 layout_spectrum: 0.99188
-typography_spectrum: 0.30344653222709894
+typography_spectrum: 0.39079
 title: 'Fitness, Strength, and Fat Loss'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#fffeff'
+    - '#ffc8c3'
+    - '#893b53'
+    - '#301d33'
+    - '#c57882'
   brandStrength: 0.9247488279361278
   lightness: 0.9253663062117994
   saturation: 0.25154452421702445
