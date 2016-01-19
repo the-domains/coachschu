@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-19T23:07:35.764Z'
+datePublished: '2016-01-19T23:37:26.033Z'
 publisher:
   name: ''
   domain: ''
 title: Coach Schu himself.
-dateModified: '2016-01-19T23:07:21.130Z'
+dateModified: '2016-01-19T23:23:11.547Z'
 starred: true
 sourcePath: _posts/2016-01-19-coach-schu-himself.md
 published: true
