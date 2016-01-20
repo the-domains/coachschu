@@ -1,41 +1,18 @@
-title: 'Fitness, Strength, and Fat Loss'
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5935919
-favicon: null
-name: coachschu
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
+analytics: {}
 color:
-  brandStrength: 0.2158516
-  lightness: 0.3102867
-  saturation: 0.7209106
-  rhythmicContrast: 0.6669477
   brandColors:
     - '#FBFCFB'
     - '#1F1F30'
     - '#91BDE7'
     - '#654B1F'
     - '#B3891E'
+  brandStrength: 0.2158516
+  lightness: 0.3102867
+  rhythmicContrast: 0.6669477
+  saturation: 0.7209106
+cta: {}
+layout_spectrum: 1
+name: coachschu
+opengraph: {}
+purpose: []
 typography_spectrum: 0.8102867
