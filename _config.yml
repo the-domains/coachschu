@@ -28,7 +28,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.7757167
+  brandStrength: 0.2158516
   lightness: 0.3102867
   saturation: 0.7209106
   rhythmicContrast: 0.6669477
